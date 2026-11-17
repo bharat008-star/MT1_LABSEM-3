@@ -1,0 +1,10 @@
+{
+  "name": "mt1-labexam",
+  "version": "1.0.0",
+  "description": "Vehicle Management Application",
+  "main": "httpServer.js",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
